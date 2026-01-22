@@ -38,7 +38,7 @@ app = FastAPI(
 # CORS configuration
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["https://splendorous-capybara-e99bc7.netlify.app"],
+    allow_origins=["https://69720b3376ee2d0da7df222d--splendorous-capybara-e99bc7.netlify.app"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
